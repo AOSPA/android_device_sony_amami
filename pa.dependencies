@@ -49,6 +49,12 @@
     },
     {
         "remote":      "github",
+        "repository":  "AOSPA/android_device_sony_sepolicy",
+        "target_path": "device/sony/sepolicy",
+        "revision":    "lollipop"
+    },
+    {
+        "remote":      "github",
         "repository":  "AOSPA/android_device_sony_recovery",
         "target_path": "device/sony/recovery",
         "revision":    "lollipop"
